@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Connect_On_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sirajmohamed)
 [![GitHub](https://img.shields.io/badge/-Follow_On_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sirajmohamed)
-[![Email](https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serag9232@gmail.com)
+[![Email](https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serag9923@gmail.com)
 
 📍 *Based in:* Beni Suef, Egypt  
 
