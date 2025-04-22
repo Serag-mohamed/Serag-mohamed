@@ -3,7 +3,7 @@
 *Front-End Developer* | *Computer Science & AI Student* @ Beni-Suef University | Crafting Scalable, User-Centric Web Apps ✨
 
 [![LinkedIn](https://img.shields.io/badge/-Connect_On_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siraj-mohamed-510a79348)
-[![GitHub](https://img.shields.io/badge/-Follow_On_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sirajmohamed)
+[![GitHub](https://img.shields.io/badge/-Follow_On_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/serag-mohamed)
 [![Email](https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serag9923@gmail.com)
 
 📍 *Based in:* Beni Suef, Egypt  
