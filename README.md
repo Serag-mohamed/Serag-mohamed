@@ -1,5 +1,5 @@
 # 👋 Hello, I'm **Siraj Mohamed**  
-🎓 *CS & AI Student @ Beni-Suef University*  
+🎓 *IS & AI Student @ Beni-Suef University*  
 💻 **Full-Stack .NET Developer | Next.js Developer | Building Scalable & Secure Web Apps**
 
 [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siraj-mohamed-510a79348)
@@ -14,10 +14,11 @@
 
 ### **Backend**
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 
 ### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
