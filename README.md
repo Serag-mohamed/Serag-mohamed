@@ -64,14 +64,13 @@ VS Code · GitHub · SQL Management Studio · Postman · Clean Architecture · A
 ### 🖥 Frontend Projects
 | Project | Tech Stack | Highlights | Repo |
 |---------|-----------|-----------|------|
-| Portfolio Website | React · Tailwind CSS | Personal portfolio with projects showcase | [GitHub](#) |
+| Portfolio Website | React · Tailwind CSS | Personal portfolio with projects showcase | [ Visit ](#) |
 | E-Commerce UI | React · TypeScript · Tailwind | Frontend for e-commerce app with products & cart pages | [GitHub](#) |
 
 ### 💻 Full-Stack .NET Projects
 | Project | Tech Stack | Highlights | Repo |
 |---------|-----------|-----------|------|
 | HR Management System | ASP.NET MVC · EF · SQL Server · Identity | Roles & Permissions, Payroll & Leave Management, Soft Delete + Authentication | [GitHub](https://github.com/serag-mohamed/HR-Management-System) |
-| E-Commerce Web App | Next.js · TypeScript · SQL Server · .NET API | Authentication & Role-based Access, Products, Cart, Orders, Payment Flow | [GitHub](#) |
 
 ---
 
