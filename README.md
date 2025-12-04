@@ -1,12 +1,14 @@
 # 👋 Hello, I'm **Siraj Mohamed**  
 🎓 *IS & AI Student @ Beni-Suef University*  
-💻 **Full Stack .NET Developer | ASP.NET Core, C#, SQL Server | React & Next.js**
+💻 **Full Stack .NET Developer | ASP.NET Core · C# · SQL Server · React & Next.js**
 
-[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siraj-mohamed-510a79348)
-[![GitHub](https://img.shields.io/badge/-Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/serag-mohamed)
-[![Gmail](https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serag9923@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siraj-mohamed-510a79348)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/serag-mohamed)
+[![Gmail](https://img.shields.io/badge/-Email_Directly-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serag9923@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SirajMohamed1)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201286021586)
 
-📍 *Based in:* Beni Suef, Egypt
+📍 *Based in Beni Suef, Egypt*
 
 ---
 
@@ -37,11 +39,11 @@ VS Code · GitHub · SQL Management Studio · Postman · Authentication & Author
 ## 💼 Experience
 
 ### **🧑‍💻 Full-Stack .NET Developer** (2023–Present | Remote)
-- Built scalable applications using **ASP.NET MVC + Entity Framework (Code First)**  
-- Developed REST APIs with authentication, authorization & role-based access control  
-- Created responsive interfaces using **React / Next.js**  
-- Improved performance using optimized LINQ queries and clean architecture  
-- Applied secure coding practices and database normalization
+- Built scalable solutions using **ASP.NET MVC + Entity Framework (Code First)**  
+- Developed secure REST APIs (Authentication · Authorization · Roles)  
+- Improved performance using optimized LINQ and clean architecture  
+- Developed responsive UIs with **React / Next.js**  
+- Applied secure coding, normalization, and best backend practices
 
 ---
 
@@ -49,32 +51,32 @@ VS Code · GitHub · SQL Management Studio · Postman · Authentication & Author
 
 ### 🧑‍💼 HR Management System (Full-Stack .NET)
 **Tech:** ASP.NET MVC · Entity Framework · SQL Server · Identity  
-- Roles & Permissions  
+- Roles & Permissions System  
 - Payroll & Leave Management  
-- Soft Delete + Auth System  
-🔗 *(Add your repo link here)*
+- Soft Delete + Authentication  
+🔗 *(Add your repo link)*
 
 ---
 
 ### 🛒 E-Commerce Web App (Full Stack)
 **Tech:** Next.js · TypeScript · SQL Server · .NET API  
-- Authentication & user roles  
-- Cart, products & payment flow  
-🔗 *(Add your repo link here)*
+- Authentication & Role-based Access  
+- Products, Cart, Orders & Payment Flow  
+🔗 *(Add your repo link)*
 
 ---
 
 ### 🌐 Portfolio Website  
 **Tech:** React · Tailwind CSS  
-🔗 *(Add your repo link here)*
+🔗 *(Add your repo link)*
 
 ---
 
 ## 🎯 Currently Learning
-- Clean Architecture & Onion Architecture  
+- Clean Architecture · Onion Architecture  
 - Advanced ASP.NET Identity  
 - SQL Optimization & LINQ Performance  
-- Azure Deployment
+- Deployment (Azure · IIS)
 
 ---
 
@@ -102,6 +104,7 @@ VS Code · GitHub · SQL Management Studio · Postman · Authentication & Author
 
 ## 🧠 My Dev Philosophy
 > **"Scalable architecture + clean, secure code = Professional software."**
+
 ---
 
-🚀 *Open to backend & full-stack opportunities, freelance projects, and collaboration.*
+🚀 *Open to backend & full-stack roles, freelance projects, and collaborations.*
