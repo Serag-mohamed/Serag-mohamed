@@ -61,11 +61,12 @@ VS Code · GitHub · SQL Management Studio · Postman · Clean Architecture · A
 ---
 
 ## 🌟 Highlighted Projects
-| Project | Tech Stack | Highlights |
-|---------|-----------|-----------|
-| HR Management System | ASP.NET MVC · EF · SQL Server · Identity | Roles & Permissions, Payroll & Leave Management, Soft Delete + Authentication |
-| E-Commerce Web App | Next.js · TypeScript · SQL Server · .NET API | Authentication & Role-based Access, Products, Cart, Orders, Payment Flow |
-| Portfolio Website | React · Tailwind CSS | Personal portfolio with projects showcase |
+| Project | Tech Stack | Highlights | Repo |
+|---------|-----------|-----------|------|
+| HR Management System | ASP.NET MVC · EF · SQL Server · Identity | Roles & Permissions, Payroll & Leave Management, Soft Delete + Authentication | [Link](#) |
+| E-Commerce Web App | Next.js · TypeScript · SQL Server · .NET API | Authentication & Role-based Access, Products, Cart, Orders, Payment Flow | [Link](#) |
+| Portfolio Website | React · Tailwind CSS | Personal portfolio with projects showcase | [Link](#) |
+
 
 🔗 *Add your repository links for each project above.*
 
