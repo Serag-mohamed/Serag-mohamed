@@ -1,6 +1,6 @@
 # 👋 Hello, I'm **Siraj Mohamed**  
 🎓 *IS & AI Student @ Beni-Suef University*  
-💻 **Full-Stack .NET Developer | Next.js Developer | Building Scalable & Secure Web Apps**
+💻 **Full Stack .NET Developer | ASP.NET Core, C#, SQL Server | React & Next.js**
 
 [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siraj-mohamed-510a79348)
 [![GitHub](https://img.shields.io/badge/-Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/serag-mohamed)
