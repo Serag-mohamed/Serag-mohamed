@@ -64,8 +64,13 @@ VS Code · GitHub · SQL Management Studio · Postman · Clean Architecture · A
 ### 🖥 Frontend Projects
 | Project | Tech Stack | Highlights | Repo |
 |---------|-----------|-----------|------|
-| Portfolio Website | React · Tailwind CSS | Personal portfolio with projects showcase | [ Visit ](https://portofolio-phi-seven.vercel.app/) |
-| E-Commerce UI | React · TypeScript · Tailwind | Frontend for e-commerce app with products & cart pages | [GitHub](#) |
+| Portfolio Website | TypeScript · React · NextJs · Tailwind CSS | Personal portfolio with projects showcase | [Visit](https://portofolio-phi-seven.vercel.app/) |
+| E-Commerce UI | TypeScript · React · NextJs · Tailwind CSS | Frontend for e-commerce app with products & cart pages | [Visit](https://e-commerce-beryl-one-57.vercel.app/) |
+| E-Commerce UI | TypeScript · React · NextJs · Tailwind CSS | Frontend for e-commerce app with products & cart pages | [Visit](https://e-commerce-beryl-one-57.vercel.app/) |
+| E-Commerce UI | TypeScript · React · NextJs · Tailwind CSS | Frontend for e-commerce app with products & cart pages | [Visit](https://e-commerce-beryl-one-57.vercel.app/) |
+| E-Commerce UI | TypeScript · React · NextJs · Tailwind CSS | Frontend for e-commerce app with products & cart pages | [Visit](https://e-commerce-beryl-one-57.vercel.app/) |
+| E-Commerce UI | TypeScript · React · NextJs · Tailwind CSS | Frontend for e-commerce app with products & cart pages | [Visit](https://e-commerce-beryl-one-57.vercel.app/) |
+| E-Commerce UI | TypeScript · React · NextJs · Tailwind CSS | Frontend for e-commerce app with products & cart pages | [Visit](https://e-commerce-beryl-one-57.vercel.app/) |
 
 ### 💻 Full-Stack .NET Projects
 | Project | Tech Stack | Highlights | Repo |
