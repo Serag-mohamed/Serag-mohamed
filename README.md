@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1527430253228-e93688616381?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjMyOXwwfDF8c2VhcmNofDJ8fGNvZGluZyUyMHNvZnR3YXJlfGVufDB8fHx8MTY5Nzk1MzkyOA&ixlib=rb-4.0.3&q=80&w=1080" alt="Banner" width="100%"/>
-</p>
 
 <h1 align="center">Hi, I'm <b>Siraj Mohamed</b> 👋</h1>
 <p align="center">
