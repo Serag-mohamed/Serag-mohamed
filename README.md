@@ -28,35 +28,9 @@
 
 ---
 
-## 🌟 Featured Projects
-
-<p align="center">
-  <a href="#" target="_blank">
-    <img src="https://via.placeholder.com/300x200.png?text=HR+Management+System" alt="HR Management System" width="300"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://via.placeholder.com/300x200.png?text=E-Commerce+Web+App" alt="E-Commerce Web App" width="300"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://via.placeholder.com/300x200.png?text=Portfolio+Website" alt="Portfolio Website" width="300"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>Hover over images for project details</i>
-</p>
-
-| Project | Tech Stack | Highlights | Repo |
-|---------|-----------|-----------|------|
-| HR Management System | ASP.NET MVC · EF · SQL Server · Identity | Roles & Permissions, Payroll & Leave Management, Soft Delete + Authentication | [Link](#) |
-| E-Commerce Web App | Next.js · TypeScript · SQL Server · .NET API | Authentication & Role-based Access, Products, Cart, Orders, Payment Flow | [Link](#) |
-| Portfolio Website | React · Tailwind CSS | Personal portfolio with projects showcase | [Link](#) |
-
----
-
 ## 🚀 Tech Stack
 
-### Backend
+### **Backend**
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-512BD4?logo=dotnet&logoColor=white)
@@ -64,7 +38,7 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?logo=dotnet&logoColor=white)
 
-### Frontend
+### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -72,6 +46,9 @@
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
+### **Tools & Others**
+VS Code · GitHub · SQL Management Studio · Postman · Clean Architecture · Authentication & Authorization
 
 ---
 
@@ -83,6 +60,17 @@
 - Improved performance using optimized LINQ and clean architecture  
 - Developed responsive UIs with **React / Next.js**  
 - Applied secure coding, normalization, and best backend practices
+
+---
+
+## 🌟 Highlighted Projects
+| Project | Tech Stack | Highlights |
+|---------|-----------|-----------|
+| HR Management System | ASP.NET MVC · EF · SQL Server · Identity | Roles & Permissions, Payroll & Leave Management, Soft Delete + Authentication |
+| E-Commerce Web App | Next.js · TypeScript · SQL Server · .NET API | Authentication & Role-based Access, Products, Cart, Orders, Payment Flow |
+| Portfolio Website | React · Tailwind CSS | Personal portfolio with projects showcase |
+
+🔗 *Add your repository links for each project above.*
 
 ---
 
@@ -113,3 +101,7 @@
 
 ## 🧠 My Dev Philosophy
 > **"Scalable architecture + clean, secure code = Professional software."**
+
+---
+
+🚀 *Open to backend & full-stack roles, freelance projects, and collaborations.*
