@@ -102,15 +102,6 @@ VS Code · GitHub · SQL Management Studio · Postman · Authentication & Author
 
 ## 🧠 My Dev Philosophy
 > **"Scalable architecture + clean, secure code = Professional software."**
-
----
-
-## 📈 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=serag-mohamed&show_icons=true&theme=radical&hide_title=true)](https://github.com/serag-mohamed)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serag-mohamed&layout=compact&theme=radical)](https://github.com/serag-mohamed)
-
 ---
 
 🚀 *Open to backend & full-stack opportunities, freelance projects, and collaboration.*
