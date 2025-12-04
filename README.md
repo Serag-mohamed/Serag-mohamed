@@ -1,14 +1,30 @@
-# 👋 Hello, I'm **Siraj Mohamed**  
-🎓 *IS & AI Student @ Beni-Suef University*  
-💻 **Full Stack .NET Developer | ASP.NET Core · C# · SQL Server · React & Next.js**
+<p align="center">
+  <img src="https://img.icons8.com/color/96/code.png" alt="Logo" width="80"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siraj-mohamed-510a79348)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/serag-mohamed)
-[![Gmail](https://img.shields.io/badge/-Email_Directly-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serag9923@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SirajMohamed1)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201286021586)
+<h1 align="center">Hello, I'm <b>Siraj Mohamed</b> 👋</h1>
+<p align="center">
+  🎓 IS & AI Student @ Beni-Suef University<br>
+  💻 Full Stack .NET Developer | ASP.NET Core · C# · SQL Server · React & Next.js
+</p>
 
-📍 *Based in Beni Suef, Egypt*
+<p align="center">
+  <a href="https://www.linkedin.com/in/siraj-mohamed-510a79348">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/serag-mohamed">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:serag9923@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/SirajMohamed1">
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/201286021586">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -31,14 +47,14 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-### **Tools**
-VS Code · GitHub · SQL Management Studio · Postman · Authentication & Authorization · Clean Architecture
+### **Tools & Others**
+VS Code · GitHub · SQL Management Studio · Postman · Clean Architecture · Authentication & Authorization
 
 ---
 
 ## 💼 Experience
 
-### **🧑‍💻 Full-Stack .NET Developer** (2023–Present | Remote)
+### 🧑‍💻 Full-Stack .NET Developer | 2023–Present (Remote)
 - Built scalable solutions using **ASP.NET MVC + Entity Framework (Code First)**  
 - Developed secure REST APIs (Authentication · Authorization · Roles)  
 - Improved performance using optimized LINQ and clean architecture  
@@ -54,26 +70,22 @@ VS Code · GitHub · SQL Management Studio · Postman · Authentication & Author
 - Roles & Permissions System  
 - Payroll & Leave Management  
 - Soft Delete + Authentication  
-🔗 *(Add your repo link)*
-
----
+🔗 [Repo Link](#)  
 
 ### 🛒 E-Commerce Web App (Full Stack)
 **Tech:** Next.js · TypeScript · SQL Server · .NET API  
 - Authentication & Role-based Access  
 - Products, Cart, Orders & Payment Flow  
-🔗 *(Add your repo link)*
-
----
+🔗 [Repo Link](#)  
 
 ### 🌐 Portfolio Website  
 **Tech:** React · Tailwind CSS  
-🔗 *(Add your repo link)*
+🔗 [Repo Link](#)  
 
 ---
 
 ## 🎯 Currently Learning
-- Clean Architecture · Onion Architecture  
+- Clean Architecture & Onion Architecture  
 - Advanced ASP.NET Identity  
 - SQL Optimization & LINQ Performance  
 - Deployment (Azure · IIS)
@@ -81,23 +93,17 @@ VS Code · GitHub · SQL Management Studio · Postman · Authentication & Author
 ---
 
 ## 🌍 Languages
-- 🇪🇬 **Arabic** — Native  
-- 🇬🇧 **English** — B2 (Upper Intermediate)
+- 🇪🇬 Arabic — Native  
+- 🇬🇧 English — B2 (Upper Intermediate)
 
 ---
 
 ## 🤝 Let's Connect
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/siraj-mohamed-510a79348">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
-  </a>
-  <a href="https://github.com/serag-mohamed">
-    <img src="https://img.icons8.com/material-outlined/48/github.png" width="40"/>
-  </a>
-  <a href="mailto:serag9923@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail.png" width="40"/>
-  </a>
+  <a href="https://www.linkedin.com/in/siraj-mohamed-510a79348"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
+  <a href="https://github.com/serag-mohamed"><img src="https://img.icons8.com/material-outlined/48/github.png" width="40"/></a>
+  <a href="mailto:serag9923@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" width="40"/></a>
+  <a href="https://t.me/SirajMohamed1"><img src="https://img.icons8.com/color/48/telegram-app.png" width="40"/></a>
 </p>
 
 ---
