@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm <b>Siraj Mohamed</b> 👋</h1>
 <p align="center">
   🎓 IS & AI Student @ Beni-Suef University<br>
@@ -61,14 +60,18 @@ VS Code · GitHub · SQL Management Studio · Postman · Clean Architecture · A
 ---
 
 ## 🌟 Highlighted Projects
+
+### 🖥 Frontend Projects
 | Project | Tech Stack | Highlights | Repo |
 |---------|-----------|-----------|------|
-| HR Management System | ASP.NET MVC · EF · SQL Server · Identity | Roles & Permissions, Payroll & Leave Management, Soft Delete + Authentication | [Link](#) |
-| E-Commerce Web App | Next.js · TypeScript · SQL Server · .NET API | Authentication & Role-based Access, Products, Cart, Orders, Payment Flow | [Link](#) |
-| Portfolio Website | React · Tailwind CSS | Personal portfolio with projects showcase | [Link](#) |
+| Portfolio Website | React · Tailwind CSS | Personal portfolio with projects showcase | [GitHub](#) |
+| E-Commerce UI | React · TypeScript · Tailwind | Frontend for e-commerce app with products & cart pages | [GitHub](#) |
 
-
-🔗 *Add your repository links for each project above.*
+### 💻 Full-Stack .NET Projects
+| Project | Tech Stack | Highlights | Repo |
+|---------|-----------|-----------|------|
+| HR Management System | ASP.NET MVC · EF · SQL Server · Identity | Roles & Permissions, Payroll & Leave Management, Soft Delete + Authentication | [GitHub](https://github.com/serag-mohamed/HR-Management-System) |
+| E-Commerce Web App | Next.js · TypeScript · SQL Server · .NET API | Authentication & Role-based Access, Products, Cart, Orders, Payment Flow | [GitHub](#) |
 
 ---
 
