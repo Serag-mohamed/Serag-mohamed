@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <b>Siraj Mohamed</b> 👋</h1>
+<h1 align="center">👋 Hi, I'm <b>Siraj Mohamed</b></h1>
 <p align="center">
   🎓 IS & AI Student @ Beni-Suef University<br>
   💻 Full Stack .NET Developer | ASP.NET Core · C# · SQL Server · React & Next.js
@@ -67,6 +67,8 @@ VS Code · GitHub · SQL Management Studio · Postman · Clean Architecture · A
 | Portfolio Website | TypeScript · React · NextJs · Tailwind CSS | Personal portfolio with projects showcase | [Visit](https://portofolio-phi-seven.vercel.app/) |
 | E-Commerce UI | TypeScript · React · NextJs · Tailwind CSS | Frontend for e-commerce app with products & cart pages | [Visit](https://e-commerce-beryl-one-57.vercel.app/) |
 | The Holy Quran | TypeScript · React · NextJs · Tailwind CSS | Interactive platform for reading & listening to the entire Qur’an with clean Arabic UI | [Visit](https://al-quran-iota-three.vercel.app/) |
+
+> 💡 **For more frontend projects, visit my [portfolio](https://portofolio-phi-seven.vercel.app/) or [GitHub repositories](https://github.com/serag-mohamed).**
 
 ### 💻 Full-Stack .NET Projects
 | Project | Tech Stack | Highlights | Repo |
