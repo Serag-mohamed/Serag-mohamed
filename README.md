@@ -67,10 +67,6 @@ VS Code · GitHub · SQL Management Studio · Postman · Clean Architecture · A
 | Portfolio Website | TypeScript · React · NextJs · Tailwind CSS | Personal portfolio with projects showcase | [Visit](https://portofolio-phi-seven.vercel.app/) |
 | E-Commerce UI | TypeScript · React · NextJs · Tailwind CSS | Frontend for e-commerce app with products & cart pages | [Visit](https://e-commerce-beryl-one-57.vercel.app/) |
 | AlQuraan | TypeScript · React · NextJs · Tailwind CSS | Frontend for e-commerce app with products & cart pages | [Visit](https://al-quran-iota-three.vercel.app/) |
-| E-Commerce UI | TypeScript · React · NextJs · Tailwind CSS | Frontend for e-commerce app with products & cart pages | [Visit](https://e-commerce-beryl-one-57.vercel.app/) |
-| E-Commerce UI | TypeScript · React · NextJs · Tailwind CSS | Frontend for e-commerce app with products & cart pages | [Visit](https://e-commerce-beryl-one-57.vercel.app/) |
-| E-Commerce UI | TypeScript · React · NextJs · Tailwind CSS | Frontend for e-commerce app with products & cart pages | [Visit](https://e-commerce-beryl-one-57.vercel.app/) |
-| E-Commerce UI | TypeScript · React · NextJs · Tailwind CSS | Frontend for e-commerce app with products & cart pages | [Visit](https://e-commerce-beryl-one-57.vercel.app/) |
 
 ### 💻 Full-Stack .NET Projects
 | Project | Tech Stack | Highlights | Repo |
