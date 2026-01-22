@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hi, I'm <b>Siraj Mohamed</b></h1>
 <p align="center">
   🎓 IS & AI Student @ Beni-Suef University<br>
-  💻 Full Stack .NET Developer | ASP.NET Core · C# · SQL Server · React & Next.js
+  💻 <b>Backend-Heavy Full Stack Developer</b> | .NET Specialist<br>
+  ASP.NET Core · C# · SQL Server · Clean Architecture · React & Next.js
 </p>
 
 <p align="center">
@@ -26,68 +27,57 @@
 
 ## 🚀 Tech Stack
 
-### **Backend**
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-512BD4?logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?logo=dotnet&logoColor=white)
+### **Backend (Core Expertise)**
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Architecture-Clean_Onion-blue?style=flat-square)
 
 ### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### **Tools & Others**
-VS Code · GitHub · SQL Management Studio · Postman · Clean Architecture · Authentication & Authorization
+### **Tools & Practices**
+Clean Architecture · Repository Pattern & Unit of Work · JWT Authentication · Database Transactions · Soft Delete Logic · Postman · Git/GitHub
 
 ---
 
-## 💼 Experience
+## 🌟 Featured Backend & Full-Stack Projects
+*These projects demonstrate my ability to build complex, scalable, and secure backend systems.*
 
-### 🧑‍💻 Full-Stack .NET Developer | 2023–Present (Remote)
-- Built scalable solutions using **ASP.NET MVC + Entity Framework (Code First)**  
-- Developed secure REST APIs (Authentication · Authorization · Roles)  
-- Improved performance using optimized LINQ and clean architecture  
-- Developed responsive UIs with **React / Next.js**  
-- Applied secure coding, normalization, and best backend practices
-
----
-
-## 🌟 Highlighted Projects
-
-### 🖥 Frontend Projects
-| Project | Tech Stack | Highlights | Repo |
-|---------|-----------|-----------|------|
-| Portfolio Website | TypeScript · React · NextJs · Tailwind CSS | Personal portfolio with projects showcase | [Visit](https://portofolio-phi-seven.vercel.app/) |
-| E-Commerce UI | TypeScript · React · NextJs · Tailwind CSS | Frontend for e-commerce app with products & cart pages | [Visit](https://e-commerce-beryl-one-57.vercel.app/) |
-| The Holy Quran | TypeScript · React · NextJs · Tailwind CSS | Interactive platform for reading & listening to the entire Qur’an with clean Arabic UI | [Visit](https://al-quran-iota-three.vercel.app/) |
-
-> 💡 **For more frontend projects, visit my [portfolio](https://portofolio-phi-seven.vercel.app/) or [GitHub repositories](https://github.com/serag-mohamed).**
-
-### 💻 Full-Stack .NET Projects
-| Project | Tech Stack | Highlights | Repo |
-|---------|-----------|-----------|------|
-| HR Management System | ASP.NET MVC · EF · SQL Server · Identity | Roles & Permissions, Payroll & Leave Management, Soft Delete + Authentication | [GitHub](https://github.com/serag-mohamed/HR-Management-System) |
+| Project | Tech Stack | Key Highlights | Repo |
+| :--- | :--- | :--- | :--- |
+| **🛒 E-Commerce Web API** | **ASP.NET Core · EF Core · SQL Server** | **Clean Architecture**, Soft Delete/Restore (Interceptors), Database Transactions, JWT Security. | [**View Repo**](https://github.com/serag-mohamed/E-Commerce-API) |
+| **👥 HR Management System** | ASP.NET MVC · SQL Server · Identity | Roles & Permissions, Payroll Management, Soft Delete, Authentication. | [**View Repo**](https://github.com/serag-mohamed/HR-Management-System) |
 
 ---
 
-## 🎯 Currently Learning
-- Clean Architecture & Onion Architecture  
-- Advanced ASP.NET Identity  
-- SQL Optimization & LINQ Performance  
-- Deployment (Azure · IIS)
+## 🖥 Frontend & UI Projects
+| Project | Tech Stack | Highlights | Demo |
+| :--- | :--- | :--- | :--- |
+| Portfolio Website | Next.js · TypeScript · Tailwind | Personal portfolio showcasing projects and skills. | [Visit](https://portofolio-phi-seven.vercel.app/) |
+| E-Commerce UI | Next.js · TypeScript · Tailwind | Modern UI for products display and cart management. | [Visit](https://e-commerce-beryl-one-57.vercel.app/) |
+| The Holy Quran | Next.js · TypeScript · Tailwind | Full Qur’an platform with clean Arabic UI & audio. | [Visit](https://al-quran-iota-three.vercel.app/) |
 
 ---
 
-## 🌍 Languages
-- 🇪🇬 Arabic — Native  
-- 🇬🇧 English — B2 (Upper Intermediate)
+## 💼 Experience & Education
+- **IS & AI Student @ Beni-Suef University** | Building a strong foundation in system analysis and AI.
+- **Full-Stack .NET Developer (Remote) | 2023–Present**
+  - Developing secure REST APIs and scalable MVC applications.
+  - Focusing on performance optimization and Clean Architecture.
+
+---
+
+## 🎯 Current Focus
+- Mastering **Onion Architecture** and Microservices.
+- Optimizing SQL & LINQ performance for large-scale data.
+- Exploring **Cloud Deployment** (Azure & Docker).
 
 ---
 
@@ -102,9 +92,4 @@ VS Code · GitHub · SQL Management Studio · Postman · Clean Architecture · A
 
 ---
 
-## 🧠 My Dev Philosophy
-> **"Scalable architecture + clean, secure code = Professional software."**
-
----
-
-🚀 *Open to backend & full-stack roles, freelance projects, and collaborations.*
+🚀 *Looking for Junior .NET / Backend opportunities where I can contribute and grow.*
