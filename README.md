@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm <b>Siraj Mohamed</b></h1>
 <p align="center">
-  🎓 Senior Computer Science Student @ Beni-Suef University<br>
-  💻 <b>Backend-Heavy Full Stack Developer</b> | .NET Specialist<br>
-  ASP.NET Core · C# · SQL Server · Clean Architecture · React & Next.js
+  🎓 Computer Science & AI Student @ Beni-Suef University<br>
+  💻 <b>Junior Back-End Developer (.NET)</b><br>
+  ASP.NET Core · C# · SQL Server · Clean Architecture · RESTful APIs
 </p>
 
 <p align="center">
@@ -27,60 +27,68 @@
 
 ## 🚀 Tech Stack
 
-### **Backend (Core Expertise)**
+### **Backend & Frameworks**
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![ASP.NET Identity](https://img.shields.io/badge/ASP.NET_Identity-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+### **Database & ORM**
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Repository & Unit of Work](https://img.shields.io/badge/Repository_%26_Unit_of_Work-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+### **Architecture & Design**
 ![Clean Architecture](https://img.shields.io/badge/Architecture-Clean_/_Onion-blue?style=flat-square)
+![SOLID](https://img.shields.io/badge/Principles-SOLID-blue?style=flat-square)
+![DI](https://img.shields.io/badge/Pattern-Dependency_Injection-blue?style=flat-square)
+![RBAC](https://img.shields.io/badge/Security-RBAC-blue?style=flat-square)
 
-### **Frontend**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+### **CS Fundamentals**
+- Data Structures
 
-### **Tools, Practices & Environments**
-* **Architectures:** Clean Architecture (Onion), SOLID Principles, Repository Pattern & Unit of Work.
-* **Database & Auth:** JWT Authentication, Database Transactions, Soft Delete Logic, EF Core Interceptors.
-* **Developer Tools:** Docker, Postman, Scalar, VS Code, Obsidian.
-* **Environments:** Linux (Fedora) & Windows Dual Boot.
-* **Cybersecurity Interest:** Basic Network Protocol Analysis & Virtualized Environments (Kali Linux).
+### **Tools & Testing**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Scalar](https://img.shields.io/badge/Scalar-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![NUnit](https://img.shields.io/badge/NUnit-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+### **Frontend (Basic)**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
-## 🌟 Featured Backend & Full-Stack Projects
-*These projects demonstrate my ability to build complex, scalable, and secure backend systems.*
+## 🌟 Featured Backend Projects
 
 | Project | Tech Stack | Key Highlights | Repo |
 | :--- | :--- | :--- | :--- |
-| **🛒 E-Commerce Web API** | **ASP.NET Core · EF Core · SQL Server** | **Clean Architecture**, Soft Delete/Restore (Interceptors), Database Transactions, JWT Security, DTO-driven design. | [**View Repo**](https://github.com/serag-mohamed/E-Commerce-API) |
-| **👥 HR Management System** | **ASP.NET MVC · SQL Server · EF Core** | Role-Based Access Control (RBAC) with ASP.NET Identity, Complex Payroll & Deduction Calculation Engine, Soft Delete, Anti-CSRF. | [**View Repo**](https://github.com/serag-mohamed/HR-Management-System) |
+| **🛒 Scalable E-Commerce RESTful API** | ASP.NET Core · EF Core · SQL Server · JWT | Secure auth with JWT + rotating refresh tokens, Onion Architecture, Generic Repository & Unit of Work, EF Core Interceptors, Global Query Filters, LINQ Projections, Soft Delete. | [**View Repo**](https://github.com/serag-mohamed/E-Commerce-API) |
+| **👥 Enterprise HR & Payroll Management System** | ASP.NET Core MVC · ASP.NET Identity · SQL Server | Granular RBAC (Admin, HR, Manager, Employee), Automated Payroll Calculations, CSRF/XSS/SQL Injection Protection, Soft Delete with Audit Trail. | [**View Repo**](https://github.com/serag-mohamed/HR-Management-System) |
 
 ---
 
-## 🖥 Frontend & UI Projects
-| Project | Tech Stack | Highlights | Demo |
-| :--- | :--- | :--- | :--- |
-| Portfolio Website | Next.js · TypeScript · Tailwind | Personal portfolio showcasing projects and skills. | [Visit](https://portofolio-phi-seven.vercel.app/) |
-| E-Commerce UI | Next.js · TypeScript · Tailwind | Modern UI for products display and cart management. | [Visit](https://e-commerce-beryl-one-57.vercel.app/) |
-| The Holy Quran | Next.js · TypeScript · Tailwind | Full Qur’an platform with clean Arabic UI, multiple reciters, and dynamic Tafsir. | [Visit](https://al-quran-iota-three.vercel.app/) |
+## 💼 Training & Education
 
----
-
-## 💼 Experience & Education
-- **Senior Computer Science Student @ Beni-Suef University** | Faculty of Computers and Artificial Intelligence.
-- **Full-Stack .NET Developer (Project-Based) | Jan 2024–Present**
-  - Engineering secure RESTful APIs and scalable MVC applications.
-  - Designing system architectures with a strong focus on clean, decoupled code.
+- **B.Sc. in Computer Science & Artificial Intelligence** — Beni-Suef University | Expected 2027
+  - Cumulative GPA: 83% (Very Good)
+- **Web Development Using .NET** — Information Technology Institute (ITI) | Jul 2026 – Aug 2026
+  - Completed a 144-hour intensive summer training program covering C# Programming Fundamentals, Database Fundamentals using SQL Server, Entity Framework Core, and ASP.NET MVC Web Development, with an overall evaluation of 85%.
 
 ---
 
 ## 🎯 Current Focus
-- Deepening knowledge in **Microservices architecture** within the .NET ecosystem.
-- Exploring advanced containerization with **Docker** and cloud environments.
-- Continuously optimizing relational database queries and LINQ logic.
+- Deepening knowledge in **Onion/Clean Architecture** and advanced **EF Core** features.
+- Exploring **Microservices architecture** within the .NET ecosystem.
+- Improving **query performance** and **database design** best practices.
+- Building secure, scalable **RESTful APIs** with **JWT** and **ASP.NET Identity**.
 
 ---
 
@@ -95,4 +103,4 @@
 
 ---
 
-🚀 *Looking for Junior .NET / Backend opportunities where I can contribute and grow.*
+🚀 *Looking for Junior .NET / Back-End opportunities where I can contribute and grow.*
